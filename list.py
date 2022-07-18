@@ -2,7 +2,12 @@ from typing import Set
 
 anewlist=["zero","one" ,"two" ,"three" ,"four","five","six"]
 
+
 secondlist=["apple","banana" ,"orange"]
+
+thirdlist=["zero","one" ,"two" ,"three" ,"four","five","six"]
+fourthlist=["zero","one" ,"two" ,"three" ,"four","five","six"]
+
 
 
 
