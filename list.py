@@ -2,6 +2,9 @@ from typing import Set
 
 anewlist=["zero","one" ,"two" ,"three" ,"four","five","six"]
 
+thirdlist=["zero","one" ,"two" ,"three" ,"four","five","six"]
+
+
 
 
 
